@@ -1,0 +1,8 @@
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe.config
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.pdb
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.exe
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.pdb
