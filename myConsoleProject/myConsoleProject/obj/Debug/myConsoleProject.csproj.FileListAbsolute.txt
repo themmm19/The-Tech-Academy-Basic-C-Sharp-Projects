@@ -1,0 +1,8 @@
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe.config
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.pdb
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.exe
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.pdb

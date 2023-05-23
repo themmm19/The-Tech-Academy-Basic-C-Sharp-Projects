@@ -1,0 +1,8 @@
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe.config
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.pdb
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.exe
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.pdb
