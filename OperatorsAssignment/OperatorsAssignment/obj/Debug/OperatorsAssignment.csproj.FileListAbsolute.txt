@@ -1,0 +1,8 @@
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe.config
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\Mohamed\source\repos\themmm19\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb
