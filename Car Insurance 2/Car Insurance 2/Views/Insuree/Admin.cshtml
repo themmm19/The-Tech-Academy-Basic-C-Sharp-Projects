@@ -1,0 +1,46 @@
+﻿﻿@using Car_Insurance_2.ViewModels
+@model List<insureeVM>
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            FirstName
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            EmailAddress
+        </th>
+        <th>
+            Quote
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.FirstName
+            </td>
+            <td>
+                @item.LastName
+            </td>
+            <td>
+                @item.EmailAddress
+            </td>
+            <td>
+                @item.Quote
+            </td>
+
+        </tr>
+    }
+
+</table>
